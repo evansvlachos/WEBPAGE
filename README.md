@@ -1,2 +1,2 @@
 # WEBPAGE
-Η σελίδα περισγράφειθ την ιστοριά
+This webpage describe the history of electrical founder the main file is index
